@@ -10,7 +10,7 @@ o sonho de me tornar um programador espero que gostem deixarei algumas imagens a
  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div> <br>
 <div>
-<a href="https://raphadevflow.github.io/previsao-do-tempo/"><b><i>Site Previsão do Tempo</i></b></a> <br><br>
+<a href="https://raphadevflow.github.io/devclub-previsao-do-tempo/"><b><i>Site Previsão do Tempo</i></b></a> <br><br>
 <img src="https://github.com/raphadevflow/previsao-do-tempo/blob/main/assets/previs%C3%A3o%20do%20tempo%20para%20computador.jpg?raw=true" >
 <img src="https://github.com/raphadevflow/previsao-do-tempo/blob/main/assets/previs%C3%A3o%20do%20tempo%20para%20celular.jpg?raw=true" alt="Para-Celular">
 </div>
